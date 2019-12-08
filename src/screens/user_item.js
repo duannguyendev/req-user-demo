@@ -1,7 +1,7 @@
 import React, {Component, ReactNode} from 'react';
 import {View, Text, StyleSheet, TouchableOpacity, Image} from 'react-native';
 import {customWidth} from '../customUI/size';
-
+//update master
 export default class UserItem extends Component {
   onUserPress = () => {
     const {item, onUserPress} = this.props;
