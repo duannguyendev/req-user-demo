@@ -27,7 +27,7 @@ export default class UserItem extends Component {
     );
   }
 }
-
+//update master 2
 const styles = StyleSheet.create({
   container: {
     width: customWidth(302),
