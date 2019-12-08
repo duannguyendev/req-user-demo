@@ -7,7 +7,7 @@ import {
 } from 'react-native'
 
 
-
+//init screen
 export default class Initializing extends React.Component {
   async componentDidMount() {
     
